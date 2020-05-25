@@ -9,7 +9,9 @@ Green
 Indigo
 Yellow
 Crimson
-
+Alice blue
+blue black
+orange
 These are the colours of the rainbow.
 
 And the beautiful pony eats some baloney
