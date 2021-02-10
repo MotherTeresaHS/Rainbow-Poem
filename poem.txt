@@ -40,3 +40,11 @@ Roses are red
 Violets are blue
 my computer is fast
 but yours is slow
+
+When the days are cold
+All you need to do is 
+turn on the heater!
+
+And when its hot outside
+All you need to do is
+turn on the AC!
